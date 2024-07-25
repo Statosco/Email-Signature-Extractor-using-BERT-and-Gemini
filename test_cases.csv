@@ -1,0 +1,2 @@
+email_text,ground_truth
+"Best regards, John Doe Software Engineer john.doe@example.com","['John Doe', 'Software Engineer', 'john.doe@example.com']"
